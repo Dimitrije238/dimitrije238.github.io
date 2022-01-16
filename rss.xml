@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Explorer - Fotografski Blog</title>
+<link>https://dimitrije238.github.io</link>
+<description>Najnovije vesti vezane sa naše fotograpfije!</description>
+<item>
+<title>Naši raniji projekti.</title>
+<link>https://dimitrije238.github.io/portfolio.html</link>
+<description>Pogledajte naše ranije radove i projekte!</description>
+</item>
+<item>
+<title>Naša galerija.</title>
+<link>https://dimitrije238.github.io/gallery.html</link>
+<description>Pogledajte sve slike u našoj galeriji!</description>
+</item>
+</channel>
+</rss>
